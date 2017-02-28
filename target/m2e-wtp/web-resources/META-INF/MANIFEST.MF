@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: BaiTapTuanMot
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: liemg
+Implementation-Vendor-Id: org.BootSpringSimple
+Build-Jdk: 1.8.0_74
+Implementation-URL: http://projects.spring.io/spring-boot/BaiTapTuanMo
+ t/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
